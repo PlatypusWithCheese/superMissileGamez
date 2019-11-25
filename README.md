@@ -1,4 +1,7 @@
 # superMissileGamez
+
+DISREGARD README LOAD GAEM.BAS
+
 The greatest Atari 800 game ever programmed in BASIC!
 
 INSTRUCTIONS:
